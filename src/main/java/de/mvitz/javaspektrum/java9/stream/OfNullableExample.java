@@ -20,7 +20,7 @@ public class OfNullableExample {
     }
 
     private static Customer findCustomerById(long id) {
-        return null;
+        return null; // only for demo
     }
 
 }
