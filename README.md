@@ -7,8 +7,8 @@ These examples were written for my german
 Radar Features in Java
 9](http://www.sigs-datacom.de/fachzeitschriften/javaspektrum/archiv/artikelansicht/artikel-titel/der-praktiker-unter-dem-radar-features-in-java-9.html).
 
-You can download it as PDF
-[here](http://www.sigs-datacom.de/uploads/tx_dmjournals/vitz_JS_05_16_X8GJ.pdf).
+You can read it online [here](https://www.innoq.com/de/articles/2016/10/java9-features/)
+or download as PDF [here](http://www.sigs-datacom.de/uploads/tx_dmjournals/vitz_JS_05_16_X8GJ.pdf).
 
 
 ## Environment
